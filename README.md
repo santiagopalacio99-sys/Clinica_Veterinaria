@@ -136,8 +136,10 @@ Están definidas en `excepciones.py`, como clases que heredan de `Exception`. Ca
 
 Se utilizó Claude (Anthropic) como apoyo y tutor en esta actividad. Su uso consistió en:
 
-- Sugerir el contexto (clínica veterinaria) y proponer el diseño de las clases y sus relaciones.
-- Explicar conceptos de clases abstractas, herencia, sobreescritura, polimorfismo, composición y excepciones personalizadas.
-- Generar el código de las clases, del programa principal y de la documentación (docstrings), además del borrador de este README.
-- Guiar paso a paso la creación del repositorio, la ejecución de las pruebas y la subida de los cambios a GitHub.
-El repositorio fue creado, ejecutado, probado y subido por mí. El detalle de qué propuestas de la IA se modificaron o corrigieron, y cómo se verificó el funcionamiento, está en el Documento de Decisiones de Diseño.
+Uso de herramientas de inteligencia artificial
+Se utilizó Claude (Anthropic) como apoyo y tutor en esta actividad. Su uso consistió en:
+
+- Proponer ideas iniciales para el contexto del proyecto y servir como apoyo para evaluar alternativas de diseño de clases y relaciones entre objetos.
+- Resolver dudas conceptuales relacionadas con clases abstractas, herencia, sobreescritura, polimorfismo, composición y excepciones personalizadas.
+- Brindar ejemplos y orientación sobre posibles implementaciones, así como apoyo en la elaboración de documentación técnica.
+- Orientar el proceso de creación del repositorio, ejecución de pruebas y gestión de versiones mediante Git y GitHub.
